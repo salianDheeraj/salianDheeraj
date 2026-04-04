@@ -1,126 +1,188 @@
 <!-- HEADER -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=140&section=header&text=AGENT%20SYSTEM&fontColor=00F7FF&fontSize=30" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=180&section=header&text=AGENT%20SYSTEM&fontColor=00F7FF&fontSize=40&animation=fadeIn&fontAlignY=35" />
 
-<h1 align="center">SYSTEM // DHEERAJ</h1>
+<h1 align="center">
+  <span style="color:#00F7FF;">SYSTEM // DHEERAJ</span>
+</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?duration=2500&color=00F7FF&center=true&vCenter=true&lines=booting+agent+systems...;initializing+LLM+stack...;multi-agent+runtime+active" />
 </p>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:000000&height=2" />
+</p>
+
 ---
 
-```bash
-> whoami
-dheeraj
+```bash id="cmd"
+> help
 
-> classification
-agentic-ai engineer
-
-> current_state
-building • breaking • scaling
-
-> system_focus
-llm systems / rag pipelines / multi-agent frameworks
+available_commands:
+  > whoami
+  > system
+  > modules
+  > metrics
+  > leetcode
+  > activity
+  > connect
 ```
 
 ---
 
-## ⌁ SYSTEM DASHBOARD
+## ⌁ > whoami
 
-```yaml
+```bash id="who"
+dheeraj
+
+agentic-ai engineer
+building scalable intelligent systems
+```
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:000000&height=2" />
+</p>
+
+---
+
+## ⌁ > system
+
+```yaml id="sys"
 status: online
 mode: autonomous
+signal_strength: █████████░ 90%
 primary_objective: build scalable intelligent systems
 secondary_objective: reduce human stupidity via automation
 risk_level: acceptable
 ```
 
----
-
-## ⌁ MODULES (TECH STACK)
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,ts,nodejs,react,next,fastapi,mongodb,mysql,docker,git,tensorflow,pytorch&perline=6" />
-</p>
-
-```txt
-core: python • fastapi • node
-ai: pytorch • tensorflow • rag pipelines
-systems: docker • backend infra
-frontend: next.js • react
-```
-
----
-
-## ⌁ ACTIVE PROCESSES
-
-```diff
-+ designing multi-agent frameworks (veritasswarm)
-+ building end-to-end rag systems
-+ backend systems for ai-driven applications
-- sleeping properly
-```
-
----
-
-## ⌁ LIVE SYSTEM METRICS
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=salianDheeraj&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" />
-</p>
-
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=salianDheeraj&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:000000&height=2" />
 </p>
 
 ---
 
-## ⌁ SYSTEM BEHAVIOR
+## ⌁ > modules
 
-```bash
-if (bug) {
-  debug();
-} else {
-  build_more();
-}
-```
+### ⟡ AI CORE
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-%23FFCC4D.svg?style=flat&logo=huggingface&logoColor=black)
 
 ---
 
-## ⌁ VISUALIZED ACTIVITY
+### ⟡ AGENT SYSTEMS
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-%23000000.svg?style=flat&logo=langchain&logoColor=white)
+
+---
+
+### ⟡ LLM STACK
+![OpenAI](https://img.shields.io/badge/OpenAI-%23000000.svg?style=flat&logo=openai&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-%2300B2A9.svg?style=flat)
+![Weaviate](https://img.shields.io/badge/Weaviate-%23FF6F61.svg?style=flat)
+
+---
+
+### ⟡ ML FOUNDATION
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%2311557C.svg?style=flat)
+
+---
+
+### ⟡ INFRA
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-%23009688.svg?style=flat&logo=fastapi&logoColor=white)
+
+---
+
+## ⌁ > metrics
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=salianDheeraj" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=salianDheeraj" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:000000&height=2" />
+</p>
+
+---
+
+## ⌁ > leetcode
+
+```yaml id="lc"
+platform: leetcode
+status: active
+focus: dsa • greedy • system thinking
+profile: leetcode.com/u/Dheeraj_Salian
+```
+
+<p align="center">
+  <a href="https://leetcode.com/u/Dheeraj_Salian/">
+    <img src="https://leetcard.jacoblin.cool/Dheeraj_Salian?theme=dark&font=Fira%20Code&ext=contest" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:000000&height=2" />
+</p>
+
+---
+
+## ⌁ > activity
 
 ![snake gif](https://raw.githubusercontent.com/salianDheeraj/salianDheeraj/output/github-contribution-grid-snake.svg)
 
----
-
-## ⌁ NETWORK ACCESS
-
 <p align="center">
-  <a href="https://linkedin.com/in/dheeraj-salian">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:dheerajsalian16@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://instagram.com/dhiru_1206">
-    <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://reddit.com/user/QuantaraNet">
-    <img src="https://skillicons.dev/icons?i=reddit" height="40"/>
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:000000&height=2" />
 </p>
 
 ---
 
-## ⌁ FINAL LOG
+## ⌁ > connect
 
-```txt
+<p align="center">
+  <a href="https://linkedin.com/in/dheeraj-salian">
+    <img src="https://cdn.simpleicons.org/linkedin/00F7FF" height="30"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:dheerajsalian16@gmail.com">
+    <img src="https://cdn.simpleicons.org/gmail/00F7FF" height="30"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://instagram.com/dhiru_1206">
+    <img src="https://cdn.simpleicons.org/instagram/00F7FF" height="30"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://reddit.com/user/QuantaraNet">
+    <img src="https://cdn.simpleicons.org/reddit/00F7FF" height="30"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:000000&height=2" />
+</p>
+
+---
+
+## ⌁ > final_log
+
+```txt id="log"
 good systems scale.
 great systems think.
 ```
 
 ---
+
+<!-- FOOTER -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer" />
