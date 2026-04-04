@@ -67,19 +67,11 @@ frontend: next.js • react
 ## ⌁ LIVE SYSTEM METRICS
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=salianDheeraj&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=salianDheeraj&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" />
 </p>
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=salianDheeraj&theme=tokyonight&hide_border=true&background=0d1117" />
-</p>
-
----
-
-## ⌁ ACTIVITY GRAPH
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=salianDheeraj&theme=tokyo-night&hide_border=true&bg_color=0d1117" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=salianDheeraj&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 </p>
 
 ---
@@ -96,13 +88,30 @@ if (bug) {
 
 ---
 
+## ⌁ VISUALIZED ACTIVITY
+
+![snake gif](https://raw.githubusercontent.com/salianDheeraj/salianDheeraj/output/github-contribution-grid-snake.svg)
+
+---
+
 ## ⌁ NETWORK ACCESS
 
 <p align="center">
-  <a href="https://linkedin.com/in/dheeraj-salian">linkedin</a> •
-  <a href="mailto:dheerajsalian16@gmail.com">email</a> •
-  <a href="https://instagram.com/dhiru_1206">instagram</a> •
-  <a href="https://reddit.com/user/QuantaraNet">reddit</a>
+  <a href="https://linkedin.com/in/dheeraj-salian">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:dheerajsalian16@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://instagram.com/dhiru_1206">
+    <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://reddit.com/user/QuantaraNet">
+    <img src="https://skillicons.dev/icons?i=reddit" height="40"/>
+  </a>
 </p>
 
 ---
@@ -113,11 +122,5 @@ if (bug) {
 good systems scale.
 great systems think.
 ```
-
----
-
-## ⌁ VISUALIZED ACTIVITY
-
-![snake gif](https://github.com/salianDheeraj/salianDheeraj/blob/output/github-contribution-grid-snake.svg)
 
 ---
