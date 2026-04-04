@@ -7,7 +7,6 @@ on:
 
 permissions:
   contents: write
-  pages: write
 
 jobs:
   build:
@@ -20,7 +19,7 @@ jobs:
           github_user_name: salianDheeraj
           outputs: dist/github-contribution-grid-snake.svg
 
-      - name: Deploy to output branch
+      - name: Deploy snake
         uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
