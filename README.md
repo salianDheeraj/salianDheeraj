@@ -16,7 +16,7 @@
 
 ---
 
-```bash id="cmd"
+```bash
 > help
 
 available_commands:
@@ -33,7 +33,7 @@ available_commands:
 
 ## ⌁ > whoami
 
-```bash id="who"
+```bash
 dheeraj
 
 agentic-ai engineer
@@ -48,7 +48,7 @@ building scalable intelligent systems
 
 ## ⌁ > system
 
-```yaml id="sys"
+```yaml
 status: online
 mode: autonomous
 signal_strength: █████████░ 90%
@@ -66,38 +66,43 @@ risk_level: acceptable
 ## ⌁ > modules
 
 ### ⟡ AI CORE
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-%23FFCC4D.svg?style=flat&logo=huggingface&logoColor=black)
+
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat\&logo=python\&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat\&logo=PyTorch\&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat\&logo=TensorFlow\&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=flat\&logo=numpy\&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-%23FFCC4D.svg?style=flat\&logo=huggingface\&logoColor=black)
 
 ---
 
 ### ⟡ AGENT SYSTEMS
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-%23000000.svg?style=flat&logo=langchain&logoColor=white)
+
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat\&logo=python\&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-%23000000.svg?style=flat\&logo=langchain\&logoColor=white)
 
 ---
 
-### ⟡ LLM STACK
-![OpenAI](https://img.shields.io/badge/OpenAI-%23000000.svg?style=flat&logo=openai&logoColor=white)
+<!-- ### ⟡ LLM STACK
+
+![OpenAI](https://img.shields.io/badge/OpenAI-%23000000.svg?style=flat\&logo=openai\&logoColor=white)
 ![Pinecone](https://img.shields.io/badge/Pinecone-%2300B2A9.svg?style=flat)
 ![Weaviate](https://img.shields.io/badge/Weaviate-%23FF6F61.svg?style=flat)
 
----
+--- -->
 
 ### ⟡ ML FOUNDATION
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
+
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat\&logo=scikit-learn\&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=flat\&logo=pandas\&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%2311557C.svg?style=flat)
 
 ---
 
 ### ⟡ INFRA
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-%23009688.svg?style=flat&logo=fastapi&logoColor=white)
+
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat\&logo=docker\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat\&logo=git\&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-%23009688.svg?style=flat\&logo=fastapi\&logoColor=white)
 
 ---
 
@@ -119,7 +124,7 @@ risk_level: acceptable
 
 ## ⌁ > leetcode
 
-```yaml id="lc"
+```yaml
 platform: leetcode
 status: active
 focus: dsa • greedy • system thinking
@@ -127,7 +132,7 @@ profile: leetcode.com/u/Dheeraj_Salian
 ```
 
 <p align="center">
-  <a href="https://leetcode.com/u/Dheeraj_Salian/">
+  <a href="https://leetcode.com/u/Dheeraj_Salian/" target="_blank">
     <img src="https://leetcard.jacoblin.cool/Dheeraj_Salian?theme=dark&font=Fira%20Code&ext=contest" />
   </a>
 </p>
@@ -151,19 +156,19 @@ profile: leetcode.com/u/Dheeraj_Salian
 ## ⌁ > connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/dheeraj-salian">
+  <a href="https://linkedin.com/in/dheeraj-salian" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="mailto:dheerajsalian16@gmail.com">
+  <a href="mailto:dheerajsalian16@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="https://instagram.com/dhiru_1206">
+  <a href="https://instagram.com/dhiru_1206" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="https://reddit.com/user/QuantaraNet">
+  <a href="https://reddit.com/user/QuantaraNet" target="_blank">
     <img src="https://img.shields.io/badge/Reddit-FF4500?style=flat&logo=reddit&logoColor=white"/>
   </a>
 </p>
@@ -176,7 +181,7 @@ profile: leetcode.com/u/Dheeraj_Salian
 
 ## ⌁ > final_log
 
-```txt id="log"
+```txt
 good systems scale.
 great systems think.
 ```
