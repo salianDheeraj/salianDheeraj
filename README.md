@@ -152,19 +152,19 @@ profile: leetcode.com/u/Dheeraj_Salian
 
 <p align="center">
   <a href="https://linkedin.com/in/dheeraj-salian">
-    <img src="https://cdn.simpleicons.org/linkedin/00F7FF" height="30"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="mailto:dheerajsalian16@gmail.com">
-    <img src="https://cdn.simpleicons.org/gmail/00F7FF" height="30"/>
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white"/>
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="https://instagram.com/dhiru_1206">
-    <img src="https://cdn.simpleicons.org/instagram/00F7FF" height="30"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/>
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="https://reddit.com/user/QuantaraNet">
-    <img src="https://cdn.simpleicons.org/reddit/00F7FF" height="30"/>
+    <img src="https://img.shields.io/badge/Reddit-FF4500?style=flat&logo=reddit&logoColor=white"/>
   </a>
 </p>
 
