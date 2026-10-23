@@ -240,4 +240,4 @@ great systems think.
 
 <!-- FOOTER -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:102a35,55:07121c,100:05090f&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:0e3947,100:07121c&height=120&section=footer" />
