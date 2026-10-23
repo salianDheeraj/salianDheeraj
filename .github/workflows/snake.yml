@@ -17,7 +17,8 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: salianDheeraj
-          outputs: dist/github-contribution-grid-snake.svg
+          outputs: |
+            dist/github-contribution-grid-snake.svg?color_snake=#00F7FF&color_dots=#0d232d,#0b3b47,#075a68,#00a8b5,#00F7FF
 
       - name: Deploy snake
         uses: peaceiris/actions-gh-pages@v4

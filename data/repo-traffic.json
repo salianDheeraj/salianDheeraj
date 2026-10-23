@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "owner": "salianDheeraj",
+  "first_collected_at": null,
+  "last_updated_at": null,
+  "repositories": {},
+  "summary": {
+    "all_time_clones": 0,
+    "all_time_unique_cloner_days": 0,
+    "rolling_14_day_clones": 0,
+    "rolling_14_day_unique_cloner_days": 0,
+    "repositories_public": 0,
+    "repositories_successful": 0,
+    "repositories_with_history": 0,
+    "updated_at_utc": null,
+    "collection_failures": [],
+    "note": "Seed file; real metrics populate after the first successful workflow run."
+  },
+  "notes": {
+    "all_time_clones": "Tracked sum since setup, not pre-setup lifetime traffic.",
+    "all_time_unique_cloner_days": "Sum of daily per-repo unique cloners, not unique people over all time."
+  }
+}

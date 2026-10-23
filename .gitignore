@@ -1,0 +1,6 @@
+.env
+.env.*
+salianDheeraj-repo-traffic/
+__pycache__/
+*.py[cod]
+.qodo/
