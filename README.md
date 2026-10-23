@@ -240,4 +240,6 @@ great systems think.
 
 <!-- FOOTER -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:0e3947,100:07121c&height=120&section=footer" />
+<p align="center">
+  <img src="assets/footer-wave.svg" width="100%" alt="Footer Wave" />
+</p>

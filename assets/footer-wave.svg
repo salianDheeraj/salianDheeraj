@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" width="100%" height="120" preserveAspectRatio="none">
+  <defs>
+    <!-- Screen-fixed vertical cyber gradient: brighter cyan at the crest, darker rich teal at the base -->
+    <linearGradient id="cyber-front-vertical" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#00F7FF" />
+      <stop offset="40%" stop-color="#076a80" />
+      <stop offset="100%" stop-color="#05202c" />
+    </linearGradient>
+
+    <!-- Secondary back wave gradient -->
+    <linearGradient id="cyber-back-vertical" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#00F7FF" stop-opacity="0.35" />
+      <stop offset="60%" stop-color="#083a48" stop-opacity="0.5" />
+      <stop offset="100%" stop-color="#041219" stop-opacity="0.7" />
+    </linearGradient>
+
+    <style>
+      .wave-front {
+        animation: scrollLeft 8s linear infinite;
+      }
+      .wave-back {
+        animation: scrollRight 12s linear infinite;
+      }
+      @keyframes scrollLeft {
+        0% { transform: translate3d(0, 0, 0); }
+        100% { transform: translate3d(-1200px, 0, 0); }
+      }
+      @keyframes scrollRight {
+        0% { transform: translate3d(-1200px, 0, 0); }
+        100% { transform: translate3d(0, 0, 0); }
+      }
+    </style>
+  </defs>
+
+  <!-- Background gentle wave -->
+  <g class="wave-back">
+    <path fill="url(#cyber-back-vertical)"
+      d="M 0,65 Q 300,20 600,65 T 1200,65 Q 1500,20 1800,65 T 2400,65 L 2400,120 L 0,120 Z" />
+  </g>
+
+  <!-- Foreground smooth sine wave -->
+  <g class="wave-front">
+    <path fill="url(#cyber-front-vertical)"
+      d="M 0,50 Q 300,15 600,50 T 1200,50 Q 1500,15 1800,50 T 2400,50 L 2400,120 L 0,120 Z" />
+  </g>
+</svg>
