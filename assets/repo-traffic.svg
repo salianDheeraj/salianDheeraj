@@ -17,21 +17,21 @@
       <rect x="25" y="118" width="202" height="124" rx="16" fill="#0b1722" fill-opacity=".85" stroke="#00f7ff" stroke-opacity=".3" stroke-width="1.2"/>
       <path d="M41 118 H211" stroke="#00f7ff" stroke-opacity=".6" stroke-width="1.5"/>
       <text x="45" y="148" fill="#7a9bb0" font-family="'JetBrains Mono', 'Fira Code', 'Courier New', monospace" font-size="10.5" font-weight="600" letter-spacing="1.5">ALL-TIME CLONES</text>
-      <text x="45" y="193" fill="#00f7ff" font-family="'JetBrains Mono', 'Fira Code', 'Segoe UI', monospace" font-size="28" font-weight="700">642</text>
+      <text x="45" y="193" fill="#00f7ff" font-family="'JetBrains Mono', 'Fira Code', 'Segoe UI', monospace" font-size="28" font-weight="700">654</text>
       <text x="45" y="221" fill="#6c8899" font-family="'JetBrains Mono', 'Fira Code', 'Segoe UI', monospace" font-size="9.5" letter-spacing="0.5">tracked since setup</text>
     </g>
     <g>
       <rect x="243" y="118" width="202" height="124" rx="16" fill="#0b1722" fill-opacity=".85" stroke="#00f7ff" stroke-opacity=".3" stroke-width="1.2"/>
       <path d="M259 118 H429" stroke="#00f7ff" stroke-opacity=".6" stroke-width="1.5"/>
       <text x="263" y="148" fill="#7a9bb0" font-family="'JetBrains Mono', 'Fira Code', 'Courier New', monospace" font-size="10.5" font-weight="600" letter-spacing="1.5">UNIQUE CLONER-DAYS</text>
-      <text x="263" y="193" fill="#00f7ff" font-family="'JetBrains Mono', 'Fira Code', 'Segoe UI', monospace" font-size="28" font-weight="700">403</text>
+      <text x="263" y="193" fill="#00f7ff" font-family="'JetBrains Mono', 'Fira Code', 'Segoe UI', monospace" font-size="28" font-weight="700">413</text>
       <text x="263" y="221" fill="#6c8899" font-family="'JetBrains Mono', 'Fira Code', 'Segoe UI', monospace" font-size="9.5" letter-spacing="0.5">daily uniques summed</text>
     </g>
     <g>
       <rect x="461" y="118" width="202" height="124" rx="16" fill="#0b1722" fill-opacity=".85" stroke="#00f7ff" stroke-opacity=".3" stroke-width="1.2"/>
       <path d="M477 118 H647" stroke="#00f7ff" stroke-opacity=".6" stroke-width="1.5"/>
       <text x="481" y="148" fill="#7a9bb0" font-family="'JetBrains Mono', 'Fira Code', 'Courier New', monospace" font-size="10.5" font-weight="600" letter-spacing="1.5">CLONES · 14 DAYS</text>
-      <text x="481" y="193" fill="#00f7ff" font-family="'JetBrains Mono', 'Fira Code', 'Segoe UI', monospace" font-size="28" font-weight="700">451</text>
+      <text x="481" y="193" fill="#00f7ff" font-family="'JetBrains Mono', 'Fira Code', 'Segoe UI', monospace" font-size="28" font-weight="700">452</text>
       <text x="481" y="221" fill="#6c8899" font-family="'JetBrains Mono', 'Fira Code', 'Segoe UI', monospace" font-size="9.5" letter-spacing="0.5">rolling API window</text>
     </g>
     <g>
@@ -43,5 +43,5 @@
     </g>
 <text x="28" y="275" fill="#a4dbe8" font-family="'JetBrains Mono', 'Fira Code', 'Courier New', monospace" font-size="11.5">» 17 / 17 public repos collected across @salianDheeraj &amp; @GitOnBoard</text>
 <text x="28" y="297" fill="#628091" font-family="'JetBrains Mono', 'Fira Code', 'Courier New', monospace" font-size="9.5" letter-spacing="0.5">UNIQUE COUNTS ARE DAILY PER-REPO SUMS, NOT GLOBALLY DEDUPLICATED PERSONS.</text>
-<text x="28" y="321" fill="#628091" font-family="'JetBrains Mono', 'Fira Code', 'Courier New', monospace" font-size="9.5" letter-spacing="0.5">LAST SYNCED: 2026-10-30 09:56 UTC · GITHUB TRAFFIC TELEMETRY</text>
+<text x="28" y="321" fill="#628091" font-family="'JetBrains Mono', 'Fira Code', 'Courier New', monospace" font-size="9.5" letter-spacing="0.5">LAST SYNCED: 2026-10-31 09:34 UTC · GITHUB TRAFFIC TELEMETRY</text>
 </svg>
